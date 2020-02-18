@@ -1,0 +1,129 @@
+.Logo {
+    background-color: transparent;
+    box-sizing: border-box;
+    height: 75px;
+    width: 125px;
+    display: flex;
+    flex-direction: row; 
+    font-size: 50px;
+    font-family: 'Squada One';
+    color: yellow;
+    text-shadow: 2px 4px red;
+    
+}
+.nav-links1 {
+    background-color: transparent;
+    box-sizing: border-box;
+    height: 75px;
+    width: 500px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    top: 0px;
+    font-family: 'Squada One';
+    
+}
+.nav-links2 {
+    background-color: transparent;
+    box-sizing: border-box;
+    height: 75px;
+    width: 500px;
+    justify-content: space-around;
+    display: flex;
+    top: 0px;
+    font-family: 'Squada One';
+}
+.top-box {
+    top: 0px;
+    position: fixed;
+    box-sizing: border-box;
+    height: 75px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: transparent;
+
+}
+.images1 {
+    background-image: url(images/1094289.jpg);
+    height: 1400px;
+    width: 100%;
+    
+}
+.buttons1 {
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+    font-family: 'Squada One';
+    
+
+}
+.bigbox {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+.text {
+    box-sizing: border-box;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Squada One';
+    font-size: 30px;
+    color: yellow;
+    text-shadow: 2px 4px red;
+
+    
+    
+ 
+    
+}
+.box1 {
+    background-image: url(images/1339291.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 250px;
+}
+.box2 {
+    background-image: url(images/124182957-spaceship-cockpit-shuttle-inside-interior-with-dashboard-panel-vector-illustration-in-cartoon-style-.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 250px;
+}
+ .box3 {
+    background-image: url(images/02.jpg66D7C64E-FB52-4D53-9F21-002FFA5D7FB2Zoom.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 250px;
+    
+
+}
+.linktext {
+    display: flex;
+    align-items: flex-end;
+}
+.linklearn {
+    display: flex;
+    align-items: flex-end;
+
+}
+.footer {
+    box-sizing: border-box;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-family: 'Squada One';
+    color: blue;
+    text-shadow: 1px 2px red;
+    word-spacing: 15px;
+}
